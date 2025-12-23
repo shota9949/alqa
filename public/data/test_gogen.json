@@ -1,0 +1,1425 @@
+{
+  "mcpServers": {
+    "語源入門（意味選択クイズ）20": [
+      {
+        "id": "Etym-01",
+        "word": "incredible",
+        "choices": [
+          "信じられない",
+          "関与する",
+          "正確な",
+          "収益",
+          "欠席",
+          "改善",
+          "連続した"
+        ],
+        "answer_index": 0,
+        "answer": "信じられない",
+        "etym_hint": "in-（否定）＋ credible（信じられる）",
+        "explanation": "credible（信じられる）を in- が打ち消して「信じられない」。",
+        "related_candidates": ["belief", "doubt", "apparently", "obvious"]
+      },
+      {
+        "id": "Etym-02",
+        "word": "illegal",
+        "choices": [
+          "違法の",
+          "機密の",
+          "公共の",
+          "同意する",
+          "在庫",
+          "議題",
+          "快適な"
+        ],
+        "answer_index": 0,
+        "answer": "違法の",
+        "etym_hint": "il-（否定：in-の変形）＋ legal（法）",
+        "explanation": "in- が l の前で il- になりやすい。legal を打ち消して illegal。",
+        "related_candidates": ["legal", "law", "lawyer", "authority"]
+      },
+      {
+        "id": "Etym-03",
+        "word": "exclusive",
+        "choices": [
+          "排他的な",
+          "徹底した",
+          "珍しい",
+          "即時の",
+          "代表者",
+          "実際の",
+          "固い"
+        ],
+        "answer_index": 0,
+        "answer": "排他的な",
+        "etym_hint": "ex-（外へ）＋（閉じる/除く系の語幹）",
+        "explanation": "ex- は「外へ」。外へ締め出す側＝排他的、の感覚で覚える。",
+        "related_candidates": ["exclusively", "except", "include", "neither"]
+      },
+      {
+        "id": "Etym-04",
+        "word": "premise",
+        "choices": [
+          "前提、根拠",
+          "前の、元の",
+          "計画",
+          "証拠",
+          "結論",
+          "議論する",
+          "品質"
+        ],
+        "answer_index": 0,
+        "answer": "前提、根拠",
+        "etym_hint": "pre-（前に）＋ mise（置く）",
+        "explanation": "「前に置いて土台にするもの」＝前提（premise）。",
+        "related_candidates": [
+          "assumption",
+          "conclusion",
+          "therefore",
+          "fundamental"
+        ]
+      },
+      {
+        "id": "Etym-05",
+        "word": "insight",
+        "choices": ["洞察", "景色", "証拠", "視察", "影響", "意図", "需要"],
+        "answer_index": 0,
+        "answer": "洞察",
+        "etym_hint": "in-（中に）＋ sight（見る）",
+        "explanation": "「中を見る」＝表面の先を見抜く＝洞察（insight）。",
+        "related_candidates": ["sight", "observe", "inspection", "perceive"]
+      },
+      {
+        "id": "Etym-06",
+        "word": "competence",
+        "choices": [
+          "能力、適性",
+          "競争力のある",
+          "候補者",
+          "権限",
+          "条件",
+          "同封された",
+          "平均して"
+        ],
+        "answer_index": 0,
+        "answer": "能力、適性",
+        "etym_hint": "compet-（できる/適任）＋ -ence（性質）",
+        "explanation": "「仕事ができる力」＝ competence。capability とセットで。",
+        "related_candidates": [
+          "capability",
+          "proficiency",
+          "qualified",
+          "adequate"
+        ]
+      },
+      {
+        "id": "Etym-07",
+        "word": "proficiency",
+        "choices": [
+          "熟練性",
+          "生産性",
+          "効率",
+          "証明書",
+          "提案",
+          "免許",
+          "人口"
+        ],
+        "answer_index": 0,
+        "answer": "熟練性",
+        "etym_hint": "pro-（前へ）＋（作る/成す系の語感）",
+        "explanation": "「前に出るほど上達した状態」＝熟練（proficiency）。",
+        "related_candidates": [
+          "practice",
+          "efficiency",
+          "competence",
+          "capability"
+        ]
+      },
+      {
+        "id": "Etym-08",
+        "word": "consecutive",
+        "choices": [
+          "連続した",
+          "結果的に",
+          "密接に",
+          "典型的に",
+          "徐々に",
+          "とどまる",
+          "きっぱりと"
+        ],
+        "answer_index": 0,
+        "answer": "連続した",
+        "etym_hint": "con-（共に）＋（続く）",
+        "explanation": "「一緒に続く」→ consecutive（連続した）。",
+        "related_candidates": [
+          "continue",
+          "consequently",
+          "meanwhile",
+          "eventually"
+        ]
+      },
+      {
+        "id": "Etym-09",
+        "word": "consequently",
+        "choices": [
+          "結果的に",
+          "同様に",
+          "それにもかかわらず",
+          "しかし",
+          "したがって",
+          "近く",
+          "ほとんど〜ない"
+        ],
+        "answer_index": 0,
+        "answer": "結果的に",
+        "etym_hint": "con-（共に）＋（続く→結果の流れ）",
+        "explanation": "「そうなる流れで」→ consequently（結果的に）。",
+        "related_candidates": ["therefore", "result", "outcome", "nevertheless"]
+      },
+      {
+        "id": "Etym-10",
+        "word": "regret",
+        "choices": [
+          "後悔する",
+          "拒否する",
+          "譲歩",
+          "苦情",
+          "謝罪する",
+          "不運にも",
+          "悲しそうに"
+        ],
+        "answer_index": 0,
+        "answer": "後悔する",
+        "etym_hint": "re-（後から）＋（嘆く）",
+        "explanation": "「後から嘆く」→ regret（後悔する）。",
+        "related_candidates": [
+          "apologize",
+          "disappointed",
+          "unfortunately",
+          "fault"
+        ]
+      },
+      {
+        "id": "Etym-11",
+        "word": "replicate",
+        "choices": [
+          "複製する",
+          "交換する",
+          "提出する",
+          "推進する",
+          "展示する",
+          "確かにする",
+          "維持する"
+        ],
+        "answer_index": 0,
+        "answer": "複製する",
+        "etym_hint": "re-（再び）＋ -plic-（折る/重ねる）",
+        "explanation": "「同じ形を作り直す」→ replicate。",
+        "related_candidates": [
+          "replace",
+          "replacement",
+          "transcript",
+          "reference"
+        ]
+      },
+      {
+        "id": "Etym-12",
+        "word": "absence",
+        "choices": [
+          "欠席",
+          "出席",
+          "在庫",
+          "空きのある",
+          "住民",
+          "不可能な",
+          "孤立した"
+        ],
+        "answer_index": 0,
+        "answer": "欠席",
+        "etym_hint": "ab-（離れて）＋ -ence（状態）",
+        "explanation": "「離れている状態」→ absence（欠席/不在）。",
+        "related_candidates": ["attendance", "vacancy", "resident", "available"]
+      },
+      {
+        "id": "Etym-13",
+        "word": "capability",
+        "choices": [
+          "容量、能力",
+          "可能な",
+          "潜在的な",
+          "確実に",
+          "適切な",
+          "価値のある",
+          "敏感な"
+        ],
+        "answer_index": 0,
+        "answer": "容量、能力",
+        "etym_hint": "capable（できる）→ -ity（性質）",
+        "explanation": "capable（できる）という性質＝ capability。",
+        "related_candidates": ["capable", "competence", "adequate", "qualified"]
+      },
+      {
+        "id": "Etym-14",
+        "word": "authorization",
+        "choices": ["承認", "保証", "資格", "登録", "投票", "議題", "権限"],
+        "answer_index": 0,
+        "answer": "承認",
+        "etym_hint": "author/authority 系（権威）＋ -ization（〜すること）",
+        "explanation": "authority（権限）に基づく「許可すること」＝ authorization。",
+        "related_candidates": [
+          "authorized",
+          "authority",
+          "permission",
+          "approval"
+        ]
+      },
+      {
+        "id": "Etym-15",
+        "word": "compensation",
+        "choices": [
+          "補償",
+          "交渉",
+          "収益",
+          "費用",
+          "割り当て",
+          "助成金",
+          "証拠"
+        ],
+        "answer_index": 0,
+        "answer": "補償",
+        "etym_hint": "com-（共に）＋（釣り合い/埋め合わせ）",
+        "explanation": "損と得の差を“埋めて釣り合いを取る”→ compensation。",
+        "related_candidates": ["reimburse", "refund", "insurance", "warranty"]
+      },
+      {
+        "id": "Etym-16",
+        "word": "inadvertently",
+        "choices": [
+          "うっかり",
+          "偶然に",
+          "明らかに",
+          "厳密に",
+          "徐々に",
+          "すぐに",
+          "ほとんど"
+        ],
+        "answer_index": 0,
+        "answer": "うっかり",
+        "etym_hint": "in-（否定）＋ advert（注意を向ける）",
+        "explanation": "注意していない状態＝「うっかり」。advertisement と同根で驚きポイント。",
+        "related_candidates": [
+          "advertisement",
+          "aware",
+          "accidentally",
+          "apparently"
+        ]
+      },
+      {
+        "id": "Etym-17",
+        "word": "overcome",
+        "choices": [
+          "克服する",
+          "越える",
+          "海外の",
+          "全体的な",
+          "起こる",
+          "防ぐ",
+          "除いて"
+        ],
+        "answer_index": 0,
+        "answer": "克服する",
+        "etym_hint": "over-（越えて）＋ come（来る）",
+        "explanation": "困難を越えて“来る”＝ overcome（克服する）。",
+        "related_candidates": ["beyond", "overall", "overseas", "prevent"]
+      },
+      {
+        "id": "Etym-18",
+        "word": "thorough",
+        "choices": [
+          "徹底した",
+          "正確な",
+          "珍しい",
+          "典型的な",
+          "固い",
+          "大規模な",
+          "古典的な"
+        ],
+        "answer_index": 0,
+        "answer": "徹底した",
+        "etym_hint": "（語源は断片化しやすいので「貫く」イメージで固定）",
+        "explanation": "細部まで“貫く”感覚＝ thorough（徹底した）。TOEICの品質/監査文脈で強い。",
+        "related_candidates": ["detailed", "strictly", "precise", "accurate"]
+      },
+      {
+        "id": "Etym-19",
+        "word": "controversial",
+        "choices": [
+          "議論のある",
+          "便利な",
+          "高価な",
+          "有利な",
+          "公共の",
+          "現代の",
+          "重要な"
+        ],
+        "answer_index": 0,
+        "answer": "議論のある",
+        "etym_hint": "contra-（反対）系の感覚＋ -ial（形容詞）",
+        "explanation": "賛否が割れる＝ controversial。",
+        "related_candidates": [
+          "discuss",
+          "disagree",
+          "concession",
+          "debate(※候補外)"
+        ]
+      },
+      {
+        "id": "Etym-20",
+        "word": "fundamental",
+        "choices": [
+          "基本的な",
+          "最適",
+          "必要な",
+          "元の",
+          "独特な",
+          "典型的な",
+          "現代の"
+        ],
+        "answer_index": 0,
+        "answer": "基本的な",
+        "etym_hint": "fund-（基礎/土台）＋ -mental（性質）",
+        "explanation": "土台＝ fundamental（基本的な）。foundation とセットで強化。",
+        "related_candidates": [
+          "foundation",
+          "premise",
+          "essentially",
+          "crucial"
+        ]
+      }
+    ],
+    "動き・伝達・変化（意味選択クイズ）20": [
+      {
+        "id": "Move-01",
+        "word": "inspection",
+        "choices": [
+          "検査、視察",
+          "説明",
+          "登録",
+          "提案",
+          "混雑した",
+          "遅延",
+          "防ぐ"
+        ],
+        "answer_index": 0,
+        "answer": "検査、視察",
+        "etym_hint": "in-（中に）＋ -spect-（見る）",
+        "explanation": "中を“見て確かめる”＝ inspection。",
+        "related_candidates": [
+          "observe",
+          "evidence",
+          "procedure",
+          "specification"
+        ]
+      },
+      {
+        "id": "Move-02",
+        "word": "respect",
+        "choices": [
+          "尊重する",
+          "示す",
+          "拒否する",
+          "認める",
+          "要求",
+          "頼る",
+          "招待"
+        ],
+        "answer_index": 0,
+        "answer": "尊重する",
+        "etym_hint": "re-（見直す）＋ -spect-（見る）",
+        "explanation": "相手を“見直して価値を認める”＝ respect。",
+        "related_candidates": [
+          "honor",
+          "recognition",
+          "appreciate",
+          "authority"
+        ]
+      },
+      {
+        "id": "Move-03",
+        "word": "describe",
+        "choices": [
+          "説明する、描く",
+          "配布する",
+          "提出する",
+          "避ける",
+          "推進する",
+          "設立する",
+          "承認する"
+        ],
+        "answer_index": 0,
+        "answer": "説明する、描く",
+        "etym_hint": "de-（はっきり）＋ -scribe-（書く）",
+        "explanation": "言葉で“絵を描くように書く”＝ describe。",
+        "related_candidates": [
+          "explanation",
+          "statement",
+          "article",
+          "specification"
+        ]
+      },
+      {
+        "id": "Move-04",
+        "word": "transcript",
+        "choices": [
+          "複写",
+          "転送する",
+          "交通機関",
+          "紹介する",
+          "同封する",
+          "推薦",
+          "議事録"
+        ],
+        "answer_index": 0,
+        "answer": "複写",
+        "etym_hint": "trans-（越えて）＋ -script-（書いたもの）",
+        "explanation": "書いたものを別形へ“移す”＝ transcript。",
+        "related_candidates": [
+          "transfer",
+          "subscription",
+          "prescription",
+          "reference"
+        ]
+      },
+      {
+        "id": "Move-05",
+        "word": "distribute",
+        "choices": [
+          "配布する",
+          "結論づける",
+          "減少する",
+          "遅延する",
+          "増加させる",
+          "参加する",
+          "確実にする"
+        ],
+        "answer_index": 0,
+        "answer": "配布する",
+        "etym_hint": "dis-（分けて）＋ -tribute-（配る）",
+        "explanation": "分けて配る＝ distribute。",
+        "related_candidates": ["contribution", "spread", "supply", "community"]
+      },
+      {
+        "id": "Move-06",
+        "word": "express",
+        "choices": [
+          "表現する",
+          "強調する",
+          "印象を与える",
+          "知らせる",
+          "確かにする",
+          "含む",
+          "削減する"
+        ],
+        "answer_index": 0,
+        "answer": "表現する",
+        "etym_hint": "ex-（外へ）＋ -press-（押す）",
+        "explanation": "中身を外へ押し出す＝ express。",
+        "related_candidates": ["impressive", "statement", "mention", "indicate"]
+      },
+      {
+        "id": "Move-07",
+        "word": "impressive",
+        "choices": [
+          "印象的な",
+          "影響",
+          "重要な",
+          "有名な",
+          "奇妙な",
+          "確実な",
+          "典型的な"
+        ],
+        "answer_index": 0,
+        "answer": "印象的な",
+        "etym_hint": "im-（中へ）＋ -press-（押す）",
+        "explanation": "心に“押し込まれて残る”＝ impressive。",
+        "related_candidates": [
+          "influence",
+          "recognition",
+          "impress",
+          "remark(※候補外)"
+        ]
+      },
+      {
+        "id": "Move-08",
+        "word": "gradually",
+        "choices": [
+          "だんだんと、徐々に",
+          "最終的に",
+          "すぐに",
+          "最近",
+          "同様に",
+          "ほとんど〜ない",
+          "おそらく"
+        ],
+        "answer_index": 0,
+        "answer": "だんだんと、徐々に",
+        "etym_hint": "grad-（段階）",
+        "explanation": "段を上がるように少しずつ＝ gradually。",
+        "related_candidates": ["degree", "eventually", "meanwhile", "recently"]
+      },
+      {
+        "id": "Move-09",
+        "word": "involve",
+        "choices": [
+          "関与する",
+          "防ぐ",
+          "提供する",
+          "調整する",
+          "保つ",
+          "説得する",
+          "推測する"
+        ],
+        "answer_index": 0,
+        "answer": "関与する",
+        "etym_hint": "in-（中に）＋ -volve-（巻く）",
+        "explanation": "中に巻き込む→関与させる＝ involve。",
+        "related_candidates": [
+          "evolution",
+          "influence",
+          "participate",
+          "concern"
+        ]
+      },
+      {
+        "id": "Move-10",
+        "word": "evolution",
+        "choices": ["進化", "革命", "発明", "発見", "展示", "拡張", "改装"],
+        "answer_index": 0,
+        "answer": "進化",
+        "etym_hint": "e-（外へ）＋ -volve-（巻く→ほどける）",
+        "explanation": "巻きがほどけて形が変わる＝ evolution。",
+        "related_candidates": ["innovative", "develop", "improve", "gradually"]
+      },
+      {
+        "id": "Move-11",
+        "word": "expand",
+        "choices": [
+          "拡大する",
+          "改善する",
+          "延長する",
+          "増加する",
+          "変動する",
+          "交換する",
+          "拒否する"
+        ],
+        "answer_index": 0,
+        "answer": "拡大する",
+        "etym_hint": "ex-（外へ）＋ -pand-（広げる）",
+        "explanation": "外へ広げる＝ expand。",
+        "related_candidates": ["enlarge", "extension", "spread", "increase"]
+      },
+      {
+        "id": "Move-12",
+        "word": "enlarge",
+        "choices": [
+          "拡大する",
+          "装備した",
+          "推進する",
+          "積み重ねる",
+          "修正する",
+          "取り外す",
+          "保持する"
+        ],
+        "answer_index": 0,
+        "answer": "拡大する",
+        "etym_hint": "en-（〜にする）＋ large（大きい）",
+        "explanation": "大きくする＝ enlarge。",
+        "related_candidates": ["expand", "massive", "enormous", "increase"]
+      },
+      {
+        "id": "Move-13",
+        "word": "recall",
+        "choices": [
+          "呼び戻す",
+          "思い出させる",
+          "説明する",
+          "拒否する",
+          "提出する",
+          "同封する",
+          "配布する"
+        ],
+        "answer_index": 0,
+        "answer": "呼び戻す",
+        "etym_hint": "re-（戻す）＋ call（呼ぶ）",
+        "explanation": "呼び戻す＝ recall。",
+        "related_candidates": [
+          "remind",
+          "refund",
+          "replace",
+          "retrieve(※候補外)"
+        ]
+      },
+      {
+        "id": "Move-14",
+        "word": "remind",
+        "choices": [
+          "思い出させる",
+          "呼び戻す",
+          "知らせる",
+          "確かにする",
+          "証明する",
+          "推奨する",
+          "登録する"
+        ],
+        "answer_index": 0,
+        "answer": "思い出させる",
+        "etym_hint": "re-（戻す）＋ mind（心）",
+        "explanation": "心に戻す＝ remind。",
+        "related_candidates": ["recall", "aware", "notice", "recognition"]
+      },
+      {
+        "id": "Move-15",
+        "word": "reduce",
+        "choices": [
+          "削減する",
+          "下げる",
+          "増加させる",
+          "改善する",
+          "導入する",
+          "拡大する",
+          "延期する"
+        ],
+        "answer_index": 0,
+        "answer": "削減する",
+        "etym_hint": "re-（戻す）＋ -duce-（導く）",
+        "explanation": "水準を元（低い方）へ導く＝ reduce。",
+        "related_candidates": ["reduction", "decrease", "decline", "efficiency"]
+      },
+      {
+        "id": "Move-16",
+        "word": "decline",
+        "choices": [
+          "減少する、傾く",
+          "拒否する",
+          "縮小",
+          "延期する",
+          "故障",
+          "損失",
+          "悪化"
+        ],
+        "answer_index": 0,
+        "answer": "減少する、傾く",
+        "etym_hint": "de-（下へ）＋ -cline-（傾く）",
+        "explanation": "下へ傾く＝ decline（減少／辞退の意味にも）。",
+        "related_candidates": ["decrease", "reduce", "worse", "fault"]
+      },
+      {
+        "id": "Move-17",
+        "word": "fluctuate",
+        "choices": [
+          "変動する",
+          "異なる",
+          "増加させる",
+          "減少する",
+          "波",
+          "変化",
+          "維持する"
+        ],
+        "answer_index": 0,
+        "answer": "変動する",
+        "etym_hint": "fluct-（波打つ）",
+        "explanation": "波のように上下＝ fluctuate。",
+        "related_candidates": ["vary", "increase", "decrease", "roughly"]
+      },
+      {
+        "id": "Move-18",
+        "word": "transfer",
+        "choices": [
+          "転送する、乗り換える",
+          "交通機関",
+          "複写",
+          "交換",
+          "提出",
+          "配布",
+          "取り外す"
+        ],
+        "answer_index": 0,
+        "answer": "転送する、乗り換える",
+        "etym_hint": "trans-（越えて）＋ -fer-（移す）",
+        "explanation": "越えて移す＝ transfer。",
+        "related_candidates": ["transportation", "transcript", "refer", "offer"]
+      },
+      {
+        "id": "Move-19",
+        "word": "transportation",
+        "choices": [
+          "交通機関",
+          "転送",
+          "輸入",
+          "輸出",
+          "運ぶこと",
+          "車両",
+          "目的地"
+        ],
+        "answer_index": 0,
+        "answer": "交通機関",
+        "etym_hint": "trans-（越えて）＋ -port-（運ぶ）",
+        "explanation": "物や人を“運ぶ”全体概念＝ transportation。",
+        "related_candidates": ["vehicle", "transfer", "destination", "cargo"]
+      },
+      {
+        "id": "Move-20",
+        "word": "occur",
+        "choices": [
+          "発生する",
+          "起こる",
+          "原因",
+          "結果",
+          "議題",
+          "発見する",
+          "達成する"
+        ],
+        "answer_index": 0,
+        "answer": "発生する",
+        "etym_hint": "-cur-（走る/起こる）",
+        "explanation": "出来事が“走って来る”感覚＝ occur（発生）。",
+        "related_candidates": ["happen", "cause", "eventually", "immediate"]
+      }
+    ],
+    "ビジネス領域（意味選択クイズ）20": [
+      {
+        "id": "Biz-01",
+        "word": "revenue",
+        "choices": ["収益", "利益", "費用", "予算", "税", "補償", "助成金"],
+        "answer_index": 0,
+        "answer": "収益",
+        "etym_hint": "re-（戻る）＋ -venue（来る→入ってくる）",
+        "explanation": "入ってくる流入（売上・収益）＝ revenue。profit と区別。",
+        "related_candidates": ["profit", "income", "expense", "accounting"]
+      },
+      {
+        "id": "Biz-02",
+        "word": "profit",
+        "choices": ["利益", "収益", "費用", "保証", "契約", "提案", "議題"],
+        "answer_index": 0,
+        "answer": "利益",
+        "etym_hint": "（前へ進んで得る）",
+        "explanation": "収益(revenue)から費用(expense)を引いた“利益”文脈で頻出。",
+        "related_candidates": ["profitable", "expense", "budget", "income"]
+      },
+      {
+        "id": "Biz-03",
+        "word": "expense",
+        "choices": [
+          "出費、費用",
+          "利益",
+          "収益",
+          "予算",
+          "保証",
+          "課税",
+          "補助金"
+        ],
+        "answer_index": 0,
+        "answer": "出費、費用",
+        "etym_hint": "ex-（外へ）＋（支出の感覚）",
+        "explanation": "お金が外へ出ていく＝ expense。",
+        "related_candidates": ["budget", "tax", "refund", "reimburse"]
+      },
+      {
+        "id": "Biz-04",
+        "word": "budget",
+        "choices": ["予算", "請求書", "会計", "費用", "収益", "税", "補償"],
+        "answer_index": 0,
+        "answer": "予算",
+        "etym_hint": "（事前に割り当てるお金の枠）",
+        "explanation": "「使える上限枠」＝ budget。",
+        "related_candidates": ["accounting", "expense", "tax", "funding"]
+      },
+      {
+        "id": "Biz-05",
+        "word": "invoice",
+        "choices": [
+          "請求書、送り状",
+          "領収書",
+          "見積書",
+          "保証書",
+          "申請書",
+          "議事録",
+          "名簿"
+        ],
+        "answer_index": 0,
+        "answer": "請求書、送り状",
+        "etym_hint": "（請求を呼びかける紙）",
+        "explanation": "会計・取引で頻出。contract / payment / refund とセット。",
+        "related_candidates": ["accounting", "tax", "refund", "contract"]
+      },
+      {
+        "id": "Biz-06",
+        "word": "inventory",
+        "choices": ["在庫", "倉庫", "装置", "設備", "商品", "顧客層", "名簿"],
+        "answer_index": 0,
+        "answer": "在庫",
+        "etym_hint": "（入ってきた物を数えて管理）",
+        "explanation": "在庫管理の中心語。warehouse と一緒に。",
+        "related_candidates": ["warehouse", "supply", "quantity", "merchandise"]
+      },
+      {
+        "id": "Biz-07",
+        "word": "warranty",
+        "choices": ["保証", "保険", "補償", "払い戻し", "承認", "契約", "条件"],
+        "answer_index": 0,
+        "answer": "保証",
+        "etym_hint": "（製品・契約の保証の核）",
+        "explanation": "製品保証＝ warranty。insurance（保険）と区別。",
+        "related_candidates": ["guarantee", "refund", "replacement", "contract"]
+      },
+      {
+        "id": "Biz-08",
+        "word": "guarantee",
+        "choices": [
+          "保証する",
+          "確認する",
+          "承認する",
+          "修正する",
+          "推奨する",
+          "示す",
+          "維持する"
+        ],
+        "answer_index": 0,
+        "answer": "保証する",
+        "etym_hint": "（守る／約束する）",
+        "explanation": "約束して守る＝ guarantee。",
+        "related_candidates": ["warranty", "ensure", "reliable", "secure"]
+      },
+      {
+        "id": "Biz-09",
+        "word": "approval",
+        "choices": ["承認", "申請", "契約", "証明", "推薦", "許可証", "権限"],
+        "answer_index": 0,
+        "answer": "承認",
+        "etym_hint": "approve（良いと認める）→ -al（名詞化）",
+        "explanation": "approve（認める）の名詞が approval（承認）。",
+        "related_candidates": [
+          "permission",
+          "authorization",
+          "agreement",
+          "verify"
+        ]
+      },
+      {
+        "id": "Biz-10",
+        "word": "permission",
+        "choices": ["許可", "義務", "権限", "手続き", "条件", "議題", "証拠"],
+        "answer_index": 0,
+        "answer": "許可",
+        "etym_hint": "permit（許す）系",
+        "explanation": "許可そのもの＝ permission。authorization/approval と使い分け。",
+        "related_candidates": ["permit", "authorization", "approval", "legal"]
+      },
+      {
+        "id": "Biz-11",
+        "word": "negotiation",
+        "choices": ["交渉", "取引", "合意", "提案", "契約", "議論", "譲歩"],
+        "answer_index": 0,
+        "answer": "交渉",
+        "etym_hint": "（条件を詰める）",
+        "explanation": "条件を調整して合意に近づける＝ negotiation。",
+        "related_candidates": ["deal", "agreement", "proposal", "contract"]
+      },
+      {
+        "id": "Biz-12",
+        "word": "contract",
+        "choices": ["契約", "接触", "縮小", "建設", "合併", "提案", "計画"],
+        "answer_index": 0,
+        "answer": "契約",
+        "etym_hint": "（一緒に引き締める感覚）",
+        "explanation": "条件を“固める”＝ contract。TOEICで必須。",
+        "related_candidates": ["agreement", "warranty", "invoice", "legal"]
+      },
+      {
+        "id": "Biz-13",
+        "word": "application",
+        "choices": [
+          "応募(書類)／適用",
+          "承認",
+          "登録",
+          "推薦",
+          "検査",
+          "同封",
+          "支払い"
+        ],
+        "answer_index": 0,
+        "answer": "応募(書類)／適用",
+        "etym_hint": "apply（適用/申し込む）＋ -ation（こと）",
+        "explanation": "apply の名詞化。補助金・求人・制度で頻出。",
+        "related_candidates": [
+          "applicant",
+          "approval",
+          "registration",
+          "procedure"
+        ]
+      },
+      {
+        "id": "Biz-14",
+        "word": "applicant",
+        "choices": [
+          "出願人",
+          "候補者",
+          "代表者",
+          "幹部",
+          "製造者",
+          "会計士",
+          "受付"
+        ],
+        "answer_index": 0,
+        "answer": "出願人",
+        "etym_hint": "apply＋ -ant（〜する人）",
+        "explanation": "応募する人＝ applicant。",
+        "related_candidates": [
+          "application",
+          "candidate",
+          "interview",
+          "eligible"
+        ]
+      },
+      {
+        "id": "Biz-15",
+        "word": "qualified",
+        "choices": [
+          "資格を与えた／資格のある",
+          "有効な",
+          "承認した",
+          "適切な",
+          "正確な",
+          "機密の",
+          "排他的な"
+        ],
+        "answer_index": 0,
+        "answer": "資格を与えた／資格のある",
+        "etym_hint": "qualify（資格を与える）系",
+        "explanation": "資格・要件文脈で頻出。eligible とペアで。",
+        "related_candidates": [
+          "qualify",
+          "eligible",
+          "authorization",
+          "permission"
+        ]
+      },
+      {
+        "id": "Biz-16",
+        "word": "eligible",
+        "choices": [
+          "資格のある",
+          "有利な",
+          "有名な",
+          "利用可能な",
+          "かなりの",
+          "必要な",
+          "信頼できる"
+        ],
+        "answer_index": 0,
+        "answer": "資格のある",
+        "etym_hint": "（要件を満たす）",
+        "explanation": "制度・採用・補助金の“対象要件を満たす”。",
+        "related_candidates": [
+          "qualified",
+          "applicant",
+          "authorization",
+          "approval"
+        ]
+      },
+      {
+        "id": "Biz-17",
+        "word": "merger",
+        "choices": ["合併", "協会", "共同体", "組合", "企業", "計画", "委員会"],
+        "answer_index": 0,
+        "answer": "合併",
+        "etym_hint": "merge（合体）の名詞",
+        "explanation": "会社や部門が一つになる＝ merger。",
+        "related_candidates": ["union", "enterprise", "agreement", "company"]
+      },
+      {
+        "id": "Biz-18",
+        "word": "investor",
+        "choices": [
+          "投資家",
+          "雇用者",
+          "従業員",
+          "消費者",
+          "供給者",
+          "代表者",
+          "技術者"
+        ],
+        "answer_index": 0,
+        "answer": "投資家",
+        "etym_hint": "invest＋ -or（〜する人）",
+        "explanation": "投資する人＝ investor。",
+        "related_candidates": ["invest", "investment", "funding", "revenue"]
+      },
+      {
+        "id": "Biz-19",
+        "word": "investment",
+        "choices": ["投資", "資金調達", "収益", "利益", "出費", "予算", "税"],
+        "answer_index": 0,
+        "answer": "投資",
+        "etym_hint": "invest＋ -ment（もの/結果）",
+        "explanation": "投資という行為・結果の名詞＝ investment。",
+        "related_candidates": ["invest", "investor", "funding", "profit"]
+      },
+      {
+        "id": "Biz-20",
+        "word": "funding",
+        "choices": [
+          "資金調達",
+          "会計",
+          "監査",
+          "請求",
+          "支払い",
+          "助成金",
+          "契約"
+        ],
+        "answer_index": 0,
+        "answer": "資金調達",
+        "etym_hint": "fund（資金）＋ -ing（行為）",
+        "explanation": "資金を集める行為＝ funding。",
+        "related_candidates": ["investment", "investor", "grant", "budget"]
+      }
+    ],
+    "形のルール（派生語・品詞変換）（意味選択クイズ）20": [
+      {
+        "id": "Form-01",
+        "word": "improvement",
+        "choices": ["改善", "開発", "導入", "達成", "検査", "提案", "結論"],
+        "answer_index": 0,
+        "answer": "改善",
+        "etym_hint": "improve＋ -ment（結果/状態）",
+        "explanation": "動詞→名詞の王道：improve（改善する）→ improvement（改善）。",
+        "related_candidates": [
+          "improve",
+          "efficiency",
+          "productivity",
+          "reduce"
+        ]
+      },
+      {
+        "id": "Form-02",
+        "word": "installation",
+        "choices": ["導入", "組織", "設立", "登録", "説明", "補償", "契約"],
+        "answer_index": 0,
+        "answer": "導入",
+        "etym_hint": "install＋ -ation（こと）",
+        "explanation": "設備やシステムの導入＝ installation。",
+        "related_candidates": ["introduce", "equipment", "facility", "device"]
+      },
+      {
+        "id": "Form-03",
+        "word": "recommendation",
+        "choices": ["推薦", "修正", "参照", "仕様", "調査", "提案", "声明"],
+        "answer_index": 0,
+        "answer": "推薦",
+        "etym_hint": "recommend＋ -ation（こと）",
+        "explanation": "recommend（勧める）の名詞＝ recommendation。",
+        "related_candidates": [
+          "recommend",
+          "recommended",
+          "reliable",
+          "evidence"
+        ]
+      },
+      {
+        "id": "Form-04",
+        "word": "attendance",
+        "choices": ["出席", "欠席", "参加", "受付", "住民", "候補者", "委員会"],
+        "answer_index": 0,
+        "answer": "出席",
+        "etym_hint": "attend＋ -ance（状態/行為）",
+        "explanation": "attend（出席する）→ attendance（出席）。",
+        "related_candidates": [
+          "attend",
+          "absence",
+          "participant",
+          "participate"
+        ]
+      },
+      {
+        "id": "Form-05",
+        "word": "efficiency",
+        "choices": ["効率", "生産性", "能力", "熟練", "正確さ", "価値", "需要"],
+        "answer_index": 0,
+        "answer": "効率",
+        "etym_hint": "efficient → efficiency（-t → -cy 型）",
+        "explanation": "形容詞→名詞の典型変化。TOEIC頻出。",
+        "related_candidates": [
+          "efficiently",
+          "productivity",
+          "reduce",
+          "improvement"
+        ]
+      },
+      {
+        "id": "Form-06",
+        "word": "productivity",
+        "choices": ["生産性", "効率", "収益", "利益", "産業", "品質", "能力"],
+        "answer_index": 0,
+        "answer": "生産性",
+        "etym_hint": "productive → productivity",
+        "explanation": "仕事・工場・業務改善の定番語。",
+        "related_candidates": [
+          "efficiency",
+          "industrial",
+          "facility",
+          "automated"
+        ]
+      },
+      {
+        "id": "Form-07",
+        "word": "commercially",
+        "choices": [
+          "商業的に",
+          "形式的に",
+          "明らかに",
+          "厳密に",
+          "全体的に",
+          "典型的に",
+          "最近"
+        ],
+        "answer_index": 0,
+        "answer": "商業的に",
+        "etym_hint": "commercial＋ -ly（副詞化）",
+        "explanation": "形容詞→副詞の王道：-ly。",
+        "related_candidates": ["enterprise", "profit", "revenue", "expense"]
+      },
+      {
+        "id": "Form-08",
+        "word": "approximately",
+        "choices": [
+          "約、おおよそ",
+          "正確に",
+          "確実に",
+          "かなり",
+          "ほとんど",
+          "近く",
+          "まもなく"
+        ],
+        "answer_index": 0,
+        "answer": "約、おおよそ",
+        "etym_hint": "approximate＋ -ly",
+        "explanation": "数字の説明で超頻出。roughly/nearly とセット。",
+        "related_candidates": ["roughly", "nearly", "exactly", "precise"]
+      },
+      {
+        "id": "Form-09",
+        "word": "absolutely",
+        "choices": [
+          "確実に",
+          "おそらく",
+          "ほとんど〜ない",
+          "たまに",
+          "やや",
+          "同様に",
+          "しかし"
+        ],
+        "answer_index": 0,
+        "answer": "確実に",
+        "etym_hint": "absolute＋ -ly",
+        "explanation": "強い断定の副詞。",
+        "related_candidates": ["certainly", "definitely", "truly", "strictly"]
+      },
+      {
+        "id": "Form-10",
+        "word": "definitely",
+        "choices": [
+          "間違いなく",
+          "おそらく",
+          "明らかに",
+          "正確に",
+          "かなり",
+          "ほとんど",
+          "最近"
+        ],
+        "answer_index": 0,
+        "answer": "間違いなく",
+        "etym_hint": "definite＋ -ly",
+        "explanation": "確信の強い言い切り。",
+        "related_candidates": ["certainly", "absolutely", "truly", "obvious"]
+      },
+      {
+        "id": "Form-11",
+        "word": "immediately",
+        "choices": [
+          "すぐに",
+          "最終的に",
+          "徐々に",
+          "最近",
+          "同時に",
+          "代わりに",
+          "それにもかかわらず"
+        ],
+        "answer_index": 0,
+        "answer": "すぐに",
+        "etym_hint": "immediate＋ -ly",
+        "explanation": "時間表現の鉄板。",
+        "related_candidates": ["immediate", "moment", "shortly", "eventually"]
+      },
+      {
+        "id": "Form-12",
+        "word": "responsibility",
+        "choices": ["責任", "権限", "義務", "許可", "条件", "規則", "評判"],
+        "answer_index": 0,
+        "answer": "責任",
+        "etym_hint": "responsible＋ -ity（性質）",
+        "explanation": "形容詞→名詞：-ity。",
+        "related_candidates": ["responsible", "duty", "authority", "permission"]
+      },
+      {
+        "id": "Form-13",
+        "word": "authorization",
+        "choices": ["承認", "申請", "登録", "推薦", "検査", "手続き", "証拠"],
+        "answer_index": 0,
+        "answer": "承認",
+        "etym_hint": "author/authority 系＋ -ization",
+        "explanation": "「許可すること」。approval と微妙に使い分け。",
+        "related_candidates": [
+          "authorized",
+          "authority",
+          "permission",
+          "approval"
+        ]
+      },
+      {
+        "id": "Form-14",
+        "word": "registration",
+        "choices": ["登録", "同封", "領収", "承認", "推薦", "検査", "署名"],
+        "answer_index": 0,
+        "answer": "登録",
+        "etym_hint": "register＋ -ation（こと）",
+        "explanation": "手続き・制度で頻出。",
+        "related_candidates": [
+          "application",
+          "procedure",
+          "permission",
+          "certificate"
+        ]
+      },
+      {
+        "id": "Form-15",
+        "word": "replacement",
+        "choices": ["交換", "修正", "提出", "配布", "導入", "改善", "確認"],
+        "answer_index": 0,
+        "answer": "交換",
+        "etym_hint": "replace＋ -ment（結果）",
+        "explanation": "replace（交換する）の名詞＝ replacement。",
+        "related_candidates": [
+          "replace",
+          "refund",
+          "warranty",
+          "repair(※候補外)"
+        ]
+      },
+      {
+        "id": "Form-16",
+        "word": "qualification",
+        "choices": [
+          "資格（※リスト外）",
+          "能力",
+          "承認",
+          "条件",
+          "義務",
+          "権限",
+          "許可"
+        ],
+        "answer_index": 0,
+        "answer": "資格（※リスト外）",
+        "etym_hint": "qualify 系",
+        "explanation": "※あなたの700語リストには qualification が無いので、本番では qualified / qualify を出す運用がおすすめ。",
+        "related_candidates": [
+          "qualified",
+          "eligible",
+          "authorization",
+          "permission"
+        ]
+      },
+      {
+        "id": "Form-17",
+        "word": "accurately",
+        "choices": [
+          "正確に",
+          "おおよそ",
+          "確実に",
+          "かなり",
+          "まもなく",
+          "ほとんど",
+          "時々"
+        ],
+        "answer_index": 0,
+        "answer": "正確に",
+        "etym_hint": "accurate＋ -ly",
+        "explanation": "accurate（正確な）→ accurately（正確に）。",
+        "related_candidates": ["accurate", "precise", "exactly", "strictly"]
+      },
+      {
+        "id": "Form-18",
+        "word": "typically",
+        "choices": [
+          "典型的に",
+          "最終的に",
+          "同様に",
+          "代わりに",
+          "正確に",
+          "確実に",
+          "最近"
+        ],
+        "answer_index": 0,
+        "answer": "典型的に",
+        "etym_hint": "typical＋ -ly",
+        "explanation": "頻出の説明副詞。",
+        "related_candidates": [
+          "typical",
+          "generally(※候補外)",
+          "overall",
+          "common"
+        ]
+      },
+      {
+        "id": "Form-19",
+        "word": "sincerely",
+        "choices": [
+          "誠実に、敬具",
+          "厳密に",
+          "確実に",
+          "明らかに",
+          "丁寧に",
+          "正式に",
+          "親切に"
+        ],
+        "answer_index": 0,
+        "answer": "誠実に、敬具",
+        "etym_hint": "sincere＋ -ly",
+        "explanation": "ビジネスレターの締めの定番。",
+        "related_candidates": ["formal", "frank", "respect", "appreciate"]
+      },
+      {
+        "id": "Form-20",
+        "word": "educational",
+        "choices": [
+          "教育の",
+          "行政の",
+          "産業の",
+          "科学の",
+          "政治の",
+          "法的な",
+          "心理的な"
+        ],
+        "answer_index": 0,
+        "answer": "教育の",
+        "etym_hint": "education＋ -al（形容詞化）",
+        "explanation": "名詞→形容詞：-al の代表。",
+        "related_candidates": [
+          "university",
+          "language",
+          "institution",
+          "training(※候補外)"
+        ]
+      }
+    ]
+  }
+}

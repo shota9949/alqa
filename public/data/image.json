@@ -1,0 +1,1405 @@
+{
+  "themes": [
+    {
+      "theme": "企画→実行→達成",
+      "story": "計画を立て、手配し、実行し、成果として達成・改善につなげる",
+      "items": [
+        {
+          "word": "objective",
+          "meaning_ja": "目標、目的",
+          "image_ja": "的の中心に『Objective』と書かれている",
+          "source": "700_list"
+        },
+        {
+          "word": "proposal",
+          "meaning_ja": "提案",
+          "image_ja": "会議で『Proposal』資料を差し出す",
+          "source": "700_list"
+        },
+        {
+          "word": "arrangement",
+          "meaning_ja": "手配",
+          "image_ja": "予定・人・物が一枚の表に並ぶ",
+          "source": "700_list"
+        },
+        {
+          "word": "procedure",
+          "meaning_ja": "手続き",
+          "image_ja": "チェックリストに✓が順に埋まる",
+          "source": "700_list"
+        },
+        {
+          "word": "perform",
+          "meaning_ja": "実行した",
+          "image_ja": "『Done』のスタンプが押される",
+          "source": "700_list"
+        },
+        {
+          "word": "result",
+          "meaning_ja": "結果",
+          "image_ja": "矢印の先に『Result』が表示される",
+          "source": "700_list"
+        },
+        {
+          "word": "achievement",
+          "meaning_ja": "達成",
+          "image_ja": "ゴール旗に『Achievement』が刺さる",
+          "source": "700_list"
+        },
+        {
+          "word": "accomplish",
+          "meaning_ja": "達成する",
+          "image_ja": "未完了タスクが全部『Complete』になる",
+          "source": "700_list"
+        },
+        {
+          "word": "improvement",
+          "meaning_ja": "改善",
+          "image_ja": "改善前→改善後でグラフが上がる",
+          "source": "700_list"
+        },
+        {
+          "word": "enhance",
+          "meaning_ja": "強調する/高める",
+          "image_ja": "同じ製品に『Enhanced』シールが貼られる",
+          "source": "700_list"
+        },
+        {
+          "word": "efficiency",
+          "meaning_ja": "効率",
+          "image_ja": "同じ作業が半分の時間で終わる時計",
+          "source": "700_list"
+        },
+        {
+          "word": "productivity",
+          "meaning_ja": "生産性",
+          "image_ja": "同じ人数で成果が増える棒グラフ",
+          "source": "700_list"
+        },
+        {
+          "word": "assess",
+          "meaning_ja": "評価する",
+          "image_ja": "候補にチェックを入れて点数を付ける",
+          "source": "700_list"
+        },
+        {
+          "word": "evaluation",
+          "meaning_ja": "評価",
+          "image_ja": "採点表にスコアが並ぶ",
+          "source": "700_list"
+        },
+        {
+          "word": "determine",
+          "meaning_ja": "決心する",
+          "image_ja": "最終案に赤い『決定』印が付く",
+          "source": "700_list"
+        },
+        {
+          "word": "conclude",
+          "meaning_ja": "結論付ける",
+          "image_ja": "会議の最後に結論が一行で出る",
+          "source": "700_list"
+        },
+        {
+          "word": "initiative",
+          "meaning_ja": "主導権",
+          "image_ja": "先頭で旗を持って進む人",
+          "source": "700_list"
+        },
+        {
+          "word": "strategy",
+          "meaning_ja": "戦略",
+          "image_ja": "地図にルートが赤線で引かれる",
+          "source": "700_list"
+        },
+        {
+          "word": "premise",
+          "meaning_ja": "前提、根拠",
+          "image_ja": "議論の土台に『Premise』が置かれる",
+          "source": "700_list"
+        },
+        {
+          "word": "completion",
+          "meaning_ja": "完了",
+          "image_ja": "進捗バーが100%になる",
+          "source": "700_list"
+        }
+      ]
+    },
+
+    {
+      "theme": "需要→供給→取引→収益",
+      "story": "需要を捉え、供給し、取引し、請求・入金・利益にする",
+      "items": [
+        {
+          "word": "demand",
+          "meaning_ja": "需要",
+          "image_ja": "注文数のグラフが急に伸びる",
+          "source": "700_list"
+        },
+        {
+          "word": "vendor",
+          "meaning_ja": "供給者",
+          "image_ja": "納品トラックが倉庫に着く",
+          "source": "700_list"
+        },
+        {
+          "word": "supply",
+          "meaning_ja": "供給する",
+          "image_ja": "ラインに箱が途切れず流れる",
+          "source": "700_list"
+        },
+        {
+          "word": "inventory",
+          "meaning_ja": "在庫",
+          "image_ja": "棚の在庫数がアプリで更新される",
+          "source": "700_list"
+        },
+        {
+          "word": "merchandise",
+          "meaning_ja": "商品",
+          "image_ja": "同じ商品が棚に整列する",
+          "source": "700_list"
+        },
+        {
+          "word": "customer",
+          "meaning_ja": "顧客",
+          "image_ja": "カウンター越しに注文する人",
+          "source": "700_list"
+        },
+        {
+          "word": "consumer",
+          "meaning_ja": "消費者",
+          "image_ja": "買い物カゴを持ってレジへ向かう",
+          "source": "700_list"
+        },
+        {
+          "word": "deal",
+          "meaning_ja": "取引する",
+          "image_ja": "握手の上に契約書が置かれる",
+          "source": "700_list"
+        },
+        {
+          "word": "contract",
+          "meaning_ja": "契約",
+          "image_ja": "署名欄にサインが並ぶ",
+          "source": "700_list"
+        },
+        {
+          "word": "agreement",
+          "meaning_ja": "合意",
+          "image_ja": "両者のサインが並んだ合意書",
+          "source": "700_list"
+        },
+        {
+          "word": "invoice",
+          "meaning_ja": "請求書、送り状",
+          "image_ja": "金額と支払期限が太字で囲まれる",
+          "source": "700_list"
+        },
+        {
+          "word": "accounting",
+          "meaning_ja": "会計",
+          "image_ja": "仕訳が帳簿に入力される",
+          "source": "700_list"
+        },
+        {
+          "word": "expense",
+          "meaning_ja": "出費、費用",
+          "image_ja": "レシートが経費精算に貼られる",
+          "source": "700_list"
+        },
+        {
+          "word": "revenue",
+          "meaning_ja": "収益",
+          "image_ja": "月次収益の折れ線が右肩上がり",
+          "source": "700_list"
+        },
+        {
+          "word": "profit",
+          "meaning_ja": "利益",
+          "image_ja": "売上−費用＝利益が残る図",
+          "source": "700_list"
+        },
+        {
+          "word": "funding",
+          "meaning_ja": "資金調達",
+          "image_ja": "投資家から資金が矢印で入ってくる",
+          "source": "700_list"
+        },
+        {
+          "word": "investment",
+          "meaning_ja": "投資",
+          "image_ja": "資金が複数の箱に分配される",
+          "source": "700_list"
+        },
+        {
+          "word": "compensation",
+          "meaning_ja": "補償",
+          "image_ja": "損害→補償金の矢印が出る",
+          "source": "700_list"
+        },
+        {
+          "word": "refund",
+          "meaning_ja": "払い戻し",
+          "image_ja": "レジで返金の紙幣が渡される",
+          "source": "700_list"
+        },
+        {
+          "word": "reimbursement",
+          "meaning_ja": "償還",
+          "image_ja": "返済スケジュール表のチェックが進む",
+          "source": "700_list"
+        }
+      ]
+    },
+
+    {
+      "theme": "問題→リスク→対策",
+      "story": "問題を特定し、リスクを抑え、対策し、信頼に変える",
+      "items": [
+        {
+          "word": "issue",
+          "meaning_ja": "問題",
+          "image_ja": "課題ボードに赤い『Issue』カード",
+          "source": "700_list"
+        },
+        {
+          "word": "fault",
+          "meaning_ja": "失敗",
+          "image_ja": "エラー画面に『Fault』が表示される",
+          "source": "700_list"
+        },
+        {
+          "word": "failure",
+          "meaning_ja": "故障、失敗",
+          "image_ja": "停止した機械に警告灯が点滅",
+          "source": "700_list"
+        },
+        {
+          "word": "defect",
+          "meaning_ja": "欠陥",
+          "image_ja": "製品に赤い『DEFECT』ラベル",
+          "source": "700_list"
+        },
+        {
+          "word": "complaint",
+          "meaning_ja": "苦情",
+          "image_ja": "サポートチケットに赤タグが付く",
+          "source": "700_list"
+        },
+        {
+          "word": "delay",
+          "meaning_ja": "遅延する、遅延",
+          "image_ja": "納期バーが赤く後ろへずれる",
+          "source": "700_list"
+        },
+        {
+          "word": "restriction",
+          "meaning_ja": "制限",
+          "image_ja": "南京錠のアイコンでアクセス不可",
+          "source": "700_list"
+        },
+        {
+          "word": "insurance",
+          "meaning_ja": "保険",
+          "image_ja": "傘の下に家と人が守られている",
+          "source": "700_list"
+        },
+        {
+          "word": "legal",
+          "meaning_ja": "法的な",
+          "image_ja": "法務レビュー済みの契約書",
+          "source": "700_list"
+        },
+        {
+          "word": "illegal",
+          "meaning_ja": "違法の",
+          "image_ja": "禁止マークが書類の上に重なる",
+          "source": "700_list"
+        },
+        {
+          "word": "confidential",
+          "meaning_ja": "機密の",
+          "image_ja": "封筒に『CONFIDENTIAL』の赤印",
+          "source": "700_list"
+        },
+        {
+          "word": "evidence",
+          "meaning_ja": "証拠",
+          "image_ja": "ログ・写真・書類が一つに集まる",
+          "source": "700_list"
+        },
+        {
+          "word": "verify",
+          "meaning_ja": "確認する",
+          "image_ja": "二重チェックの✓✓が付く",
+          "source": "700_list"
+        },
+        {
+          "word": "ensure",
+          "meaning_ja": "確かにする",
+          "image_ja": "最終確認して送信ボタンを押す",
+          "source": "700_list"
+        },
+        {
+          "word": "accurate",
+          "meaning_ja": "正確な",
+          "image_ja": "的の中心に矢が刺さる",
+          "source": "700_list"
+        },
+        {
+          "word": "precise",
+          "meaning_ja": "正確な",
+          "image_ja": "精密ノギスで寸法を測る",
+          "source": "700_list"
+        },
+        {
+          "word": "strictly",
+          "meaning_ja": "厳密に",
+          "image_ja": "ルール表の『STRICT』が赤字",
+          "source": "700_list"
+        },
+        {
+          "word": "remedy",
+          "meaning_ja": "救済策、治療",
+          "image_ja": "『Remedy』と書かれた箱が差し出される",
+          "source": "700_list"
+        },
+        {
+          "word": "guarantee",
+          "meaning_ja": "保証する",
+          "image_ja": "『Guarantee』バッジが光る",
+          "source": "700_list"
+        },
+        {
+          "word": "reliable",
+          "meaning_ja": "信頼できる",
+          "image_ja": "稼働率99.9%のダッシュボード",
+          "source": "700_list"
+        }
+      ]
+    },
+
+    {
+      "theme": "変化→成長→影響",
+      "story": "変化が起き、成長し、周囲へ影響が広がる",
+      "items": [
+        {
+          "word": "increase",
+          "meaning_ja": "増加させる",
+          "image_ja": "売上バーが上に伸びる",
+          "source": "700_list"
+        },
+        {
+          "word": "decrease",
+          "meaning_ja": "減少する",
+          "image_ja": "コストバーが下に下がる",
+          "source": "700_list"
+        },
+        {
+          "word": "expand",
+          "meaning_ja": "拡大する",
+          "image_ja": "地図の営業エリアが広がる",
+          "source": "700_list"
+        },
+        {
+          "word": "enlarge",
+          "meaning_ja": "拡大する",
+          "image_ja": "虫眼鏡で画像が大きくなる",
+          "source": "700_list"
+        },
+        {
+          "word": "extend",
+          "meaning_ja": "延長する",
+          "image_ja": "期限が右へ伸びるカレンダー",
+          "source": "700_list"
+        },
+        {
+          "word": "develop",
+          "meaning_ja": "開発する",
+          "image_ja": "試作品が完成品へ変わる",
+          "source": "700_list"
+        },
+        {
+          "word": "improve",
+          "meaning_ja": "改善する",
+          "image_ja": "改善前→改善後の比較が並ぶ",
+          "source": "700_list"
+        },
+        {
+          "word": "enhance",
+          "meaning_ja": "強調する/高める",
+          "image_ja": "同じ機能に『Enhanced』表示が付く",
+          "source": "700_list"
+        },
+        {
+          "word": "growth",
+          "meaning_ja": "成長",
+          "image_ja": "苗が木に育つ",
+          "source": "700_list"
+        },
+        {
+          "word": "evolution",
+          "meaning_ja": "進化",
+          "image_ja": "古い→新しいへ形が段階的に変化",
+          "source": "700_list"
+        },
+        {
+          "word": "fluctuate",
+          "meaning_ja": "変動する",
+          "image_ja": "折れ線グラフが上下に揺れる",
+          "source": "700_list"
+        },
+        {
+          "word": "decline",
+          "meaning_ja": "減少する、傾く",
+          "image_ja": "右下がりのトレンド線",
+          "source": "700_list"
+        },
+        {
+          "word": "impact",
+          "meaning_ja": "影響、影響する",
+          "image_ja": "石を投げた波紋が広がる",
+          "source": "700_list"
+        },
+        {
+          "word": "influence",
+          "meaning_ja": "影響",
+          "image_ja": "一人の発言から周囲へ矢印が伸びる",
+          "source": "700_list"
+        },
+        {
+          "word": "spread",
+          "meaning_ja": "広げる",
+          "image_ja": "インクが紙にじわっと広がる",
+          "source": "700_list"
+        },
+        {
+          "word": "consequently",
+          "meaning_ja": "結果的に",
+          "image_ja": "原因→結果の矢印が太くなる",
+          "source": "700_list"
+        },
+        {
+          "word": "therefore",
+          "meaning_ja": "したがって、だから",
+          "image_ja": "論理の矢印で結論へ進む",
+          "source": "700_list"
+        },
+        {
+          "word": "thereby",
+          "meaning_ja": "それによって",
+          "image_ja": "行動の結果として次が開く扉",
+          "source": "700_list"
+        },
+        {
+          "word": "eventually",
+          "meaning_ja": "最終的に",
+          "image_ja": "遠回りの道の先にゴール旗",
+          "source": "700_list"
+        },
+        {
+          "word": "gradually",
+          "meaning_ja": "だんだんと、徐々に",
+          "image_ja": "ゆっくり上がる階段",
+          "source": "700_list"
+        }
+      ]
+    },
+
+    {
+      "theme": "組織の成長と統治",
+      "story": "組織が成立し、統治され、拡張されていく流れ",
+      "items": [
+        {
+          "word": "establish",
+          "meaning_ja": "設立する",
+          "image_ja": "空き地に社名プレートが立つ",
+          "source": "700_list"
+        },
+        {
+          "word": "institution",
+          "meaning_ja": "機関",
+          "image_ja": "長年使われた重厚な建物",
+          "source": "700_list"
+        },
+        {
+          "word": "authority",
+          "meaning_ja": "権限",
+          "image_ja": "承認スタンプを持つ手",
+          "source": "700_list"
+        },
+        {
+          "word": "administrative",
+          "meaning_ja": "行政の",
+          "image_ja": "役所の書類が整然と並ぶ",
+          "source": "700_list"
+        },
+        {
+          "word": "governance",
+          "meaning_ja": "統治、管理体制",
+          "image_ja": "組織図の上にルールが被さる",
+          "source": "added"
+        },
+        {
+          "word": "policy",
+          "meaning_ja": "方針",
+          "image_ja": "太字で書かれた社内ルール",
+          "source": "added"
+        },
+        {
+          "word": "compliance",
+          "meaning_ja": "法令遵守",
+          "image_ja": "チェック済みの規則リスト",
+          "source": "700_list"
+        },
+        {
+          "word": "regulation",
+          "meaning_ja": "規制",
+          "image_ja": "赤線で囲まれた禁止事項",
+          "source": "added"
+        },
+        {
+          "word": "authorized",
+          "meaning_ja": "承認した",
+          "image_ja": "アクセス権がONになる",
+          "source": "700_list"
+        },
+        {
+          "word": "municipal",
+          "meaning_ja": "市政の",
+          "image_ja": "市役所の庁舎",
+          "source": "700_list"
+        },
+        {
+          "word": "council",
+          "meaning_ja": "議会",
+          "image_ja": "半円形の議席",
+          "source": "700_list"
+        },
+        {
+          "word": "convention",
+          "meaning_ja": "大会",
+          "image_ja": "参加者が名札を付けて大ホールに集まる",
+          "source": "700_list"
+        },
+        {
+          "word": "committee",
+          "meaning_ja": "委員会",
+          "image_ja": "ホワイトボード前で複数人が議題を囲む",
+          "source": "700_list"
+        },
+        {
+          "word": "public",
+          "meaning_ja": "公共の",
+          "image_ja": "公共施設の入口に案内表示",
+          "source": "700_list"
+        },
+        {
+          "word": "government",
+          "meaning_ja": "政府",
+          "image_ja": "国章の入った公文書",
+          "source": "700_list"
+        },
+        {
+          "word": "law",
+          "meaning_ja": "法",
+          "image_ja": "分厚い法典が机に置かれる",
+          "source": "700_list"
+        },
+        {
+          "word": "legal",
+          "meaning_ja": "法的な",
+          "image_ja": "法務レビュー済みの契約書",
+          "source": "700_list"
+        },
+        {
+          "word": "political",
+          "meaning_ja": "政治の",
+          "image_ja": "議場で討論が行われる",
+          "source": "700_list"
+        },
+        {
+          "word": "registration",
+          "meaning_ja": "登録",
+          "image_ja": "申請フォームに情報が入力される",
+          "source": "700_list"
+        },
+        {
+          "word": "approval",
+          "meaning_ja": "承認",
+          "image_ja": "承認フローの最後に✓が付く",
+          "source": "700_list"
+        }
+      ]
+    },
+
+    {
+      "theme": "計測・判断・正確性",
+      "story": "測る → 比較する → 正確に判断する",
+      "items": [
+        {
+          "word": "accurate",
+          "meaning_ja": "正確な",
+          "image_ja": "的の中心に矢が刺さる",
+          "source": "700_list"
+        },
+        {
+          "word": "precise",
+          "meaning_ja": "正確な",
+          "image_ja": "ミリ単位で測る測定器",
+          "source": "700_list"
+        },
+        {
+          "word": "exactly",
+          "meaning_ja": "正確に",
+          "image_ja": "誤差ゼロの表示",
+          "source": "700_list"
+        },
+        {
+          "word": "approximately",
+          "meaning_ja": "約、おおよそ",
+          "image_ja": "±マーク付きの数字",
+          "source": "700_list"
+        },
+        {
+          "word": "estimated",
+          "meaning_ja": "見積もった",
+          "image_ja": "概算金額が鉛筆で書かれる",
+          "source": "700_list"
+        },
+        {
+          "word": "roughly",
+          "meaning_ja": "約、およそ",
+          "image_ja": "ざっくり描かれた円",
+          "source": "700_list"
+        },
+        {
+          "word": "evaluation",
+          "meaning_ja": "評価",
+          "image_ja": "評価シートにスコアが入る",
+          "source": "700_list"
+        },
+        {
+          "word": "assess",
+          "meaning_ja": "評価する",
+          "image_ja": "チェック項目に点数",
+          "source": "700_list"
+        },
+        {
+          "word": "verify",
+          "meaning_ja": "確認する",
+          "image_ja": "二重チェックマーク",
+          "source": "700_list"
+        },
+        {
+          "word": "valid",
+          "meaning_ja": "有効な",
+          "image_ja": "VALIDの緑印が点灯",
+          "source": "700_list"
+        },
+        {
+          "word": "factor",
+          "meaning_ja": "因子",
+          "image_ja": "原因の部品が一つ取り出される",
+          "source": "700_list"
+        },
+        {
+          "word": "quantity",
+          "meaning_ja": "数、数量",
+          "image_ja": "数量欄が増減する",
+          "source": "700_list"
+        },
+        {
+          "word": "portion",
+          "meaning_ja": "部分",
+          "image_ja": "円が一切れだけ切り取られる",
+          "source": "700_list"
+        },
+        {
+          "word": "unit",
+          "meaning_ja": "単位",
+          "image_ja": "cm・kg・$のラベルが並ぶ",
+          "source": "700_list"
+        },
+        {
+          "word": "degree",
+          "meaning_ja": "角度，温度",
+          "image_ja": "温度計の目盛りが動く",
+          "source": "700_list"
+        },
+        {
+          "word": "specification",
+          "meaning_ja": "仕様",
+          "image_ja": "要件表に数値が並ぶ",
+          "source": "700_list"
+        },
+        {
+          "word": "evidence",
+          "meaning_ja": "証拠",
+          "image_ja": "ログ・画像・書類が一つのフォルダに集まる",
+          "source": "700_list"
+        },
+        {
+          "word": "proof",
+          "meaning_ja": "証拠",
+          "image_ja": "証拠写真に日時スタンプ",
+          "source": "700_list"
+        },
+        {
+          "word": "thorough",
+          "meaning_ja": "徹底した",
+          "image_ja": "隅々までチェックする虫眼鏡",
+          "source": "700_list"
+        },
+        {
+          "word": "strictly",
+          "meaning_ja": "厳密に",
+          "image_ja": "ルール表のSTRICTが赤字",
+          "source": "700_list"
+        }
+      ]
+    },
+
+    {
+      "theme": "認知・理解・判断",
+      "story": "気づく → 理解する → 判断する",
+      "items": [
+        {
+          "word": "aware",
+          "meaning_ja": "気付いている",
+          "image_ja": "頭の上に電球が灯る",
+          "source": "700_list"
+        },
+        {
+          "word": "recognition",
+          "meaning_ja": "認識",
+          "image_ja": "顔認証が完了する",
+          "source": "700_list"
+        },
+        {
+          "word": "perceive",
+          "meaning_ja": "知覚する、認める",
+          "image_ja": "曖昧な形が輪郭を持ちはじめる",
+          "source": "700_list"
+        },
+        {
+          "word": "understand",
+          "meaning_ja": "理解する",
+          "image_ja": "点と点が線でつながる",
+          "source": "700_list"
+        },
+        {
+          "word": "assumption",
+          "meaning_ja": "仮定",
+          "image_ja": "前提条件が箱として置かれる",
+          "source": "700_list"
+        },
+        {
+          "word": "suppose",
+          "meaning_ja": "仮定する、思う",
+          "image_ja": "もし〜ならの分岐図",
+          "source": "700_list"
+        },
+        {
+          "word": "believe",
+          "meaning_ja": "信じる",
+          "image_ja": "確信のチェックマーク",
+          "source": "700_list"
+        },
+        {
+          "word": "doubt",
+          "meaning_ja": "疑問を持つ",
+          "image_ja": "？マークが浮かぶ",
+          "source": "700_list"
+        },
+        {
+          "word": "insight",
+          "meaning_ja": "洞察",
+          "image_ja": "奥の構造が透けて見える",
+          "source": "700_list"
+        },
+        {
+          "word": "consider",
+          "meaning_ja": "検討する、考える",
+          "image_ja": "天秤に案を乗せる",
+          "source": "700_list"
+        },
+        {
+          "word": "determine",
+          "meaning_ja": "決心する",
+          "image_ja": "迷い線が消えて一本道になる",
+          "source": "700_list"
+        },
+        {
+          "word": "decide",
+          "meaning_ja": "決定する",
+          "image_ja": "決定ボタンを押す",
+          "source": "700_list"
+        },
+        {
+          "word": "conclude",
+          "meaning_ja": "結論付ける",
+          "image_ja": "最後に一本線が引かれる",
+          "source": "700_list"
+        },
+        {
+          "word": "identify",
+          "meaning_ja": "識別する",
+          "image_ja": "対象にタグが付けられる",
+          "source": "700_list"
+        },
+        {
+          "word": "indicate",
+          "meaning_ja": "を示す",
+          "image_ja": "矢印が重要箇所を指す",
+          "source": "700_list"
+        },
+        {
+          "word": "apparent",
+          "meaning_ja": "（参考）明白な",
+          "image_ja": "※語彙リスト外：隠れていた文字が浮かび上がる",
+          "source": "added"
+        },
+        {
+          "word": "obvious",
+          "meaning_ja": "明白な",
+          "image_ja": "答えが太字で表示される",
+          "source": "700_list"
+        },
+        {
+          "word": "accurately",
+          "meaning_ja": "正確に",
+          "image_ja": "ぴったり一致する線",
+          "source": "700_list"
+        },
+        {
+          "word": "concerning",
+          "meaning_ja": "に関して",
+          "image_ja": "話題の周りに丸が付く",
+          "source": "700_list"
+        },
+        {
+          "word": "regarding",
+          "meaning_ja": "に関して",
+          "image_ja": "件名に『Regarding…』と書かれる",
+          "source": "700_list"
+        }
+      ]
+    },
+
+    {
+      "theme": "人材・育成・評価",
+      "story": "採用 → 育成 → 評価 → 成果",
+      "items": [
+        {
+          "word": "recruit",
+          "meaning_ja": "採用する",
+          "image_ja": "ドアから新しい人が入ってくる",
+          "source": "added"
+        },
+        {
+          "word": "employ",
+          "meaning_ja": "採用する、雇う",
+          "image_ja": "名札を渡される",
+          "source": "700_list"
+        },
+        {
+          "word": "applicant",
+          "meaning_ja": "出願人",
+          "image_ja": "応募書類の束",
+          "source": "700_list"
+        },
+        {
+          "word": "qualified",
+          "meaning_ja": "資格を与えた",
+          "image_ja": "合格スタンプ",
+          "source": "700_list"
+        },
+        {
+          "word": "capable",
+          "meaning_ja": "容量のある",
+          "image_ja": "メーターが満タンになる",
+          "source": "700_list"
+        },
+        {
+          "word": "competence",
+          "meaning_ja": "能力、適性",
+          "image_ja": "スキルバーが伸びる",
+          "source": "700_list"
+        },
+        {
+          "word": "proficiency",
+          "meaning_ja": "熟練性",
+          "image_ja": "熟練度がMAX表示",
+          "source": "700_list"
+        },
+        {
+          "word": "practice",
+          "meaning_ja": "練習する",
+          "image_ja": "反復して書き込むノート",
+          "source": "700_list"
+        },
+        {
+          "word": "develop",
+          "meaning_ja": "開発する",
+          "image_ja": "未完成が完成に変わる",
+          "source": "700_list"
+        },
+        {
+          "word": "improvement",
+          "meaning_ja": "改善",
+          "image_ja": "改善前→改善後の矢印",
+          "source": "700_list"
+        },
+        {
+          "word": "performed",
+          "meaning_ja": "実行した",
+          "image_ja": "タスクにDone印が押される",
+          "source": "700_list"
+        },
+        {
+          "word": "assess",
+          "meaning_ja": "評価する",
+          "image_ja": "評価表に点数が入る",
+          "source": "700_list"
+        },
+        {
+          "word": "evaluation",
+          "meaning_ja": "評価",
+          "image_ja": "星評価が付く",
+          "source": "700_list"
+        },
+        {
+          "word": "recognition",
+          "meaning_ja": "認識",
+          "image_ja": "功績が認められて名前が掲示される",
+          "source": "700_list"
+        },
+        {
+          "word": "award",
+          "meaning_ja": "賞",
+          "image_ja": "トロフィーが手渡される",
+          "source": "700_list"
+        },
+        {
+          "word": "promote",
+          "meaning_ja": "推進する、昇進する",
+          "image_ja": "階段を一段上がる"
+        },
+        {
+          "word": "supervise",
+          "meaning_ja": "監督する",
+          "image_ja": "後ろから進捗を見守る"
+        },
+        {
+          "word": "dedicated",
+          "meaning_ja": "捧げた",
+          "image_ja": "一つの仕事に集中する姿"
+        },
+        {
+          "word": "personnel",
+          "meaning_ja": "人事",
+          "image_ja": "人のアイコンが並ぶ"
+        },
+        {
+          "word": "productivity",
+          "meaning_ja": "生産性",
+          "image_ja": "同じ時間で成果が増える"
+        }
+      ]
+    },
+
+    {
+      "theme": "時間・進行・変化",
+      "story": "開始 → 継続 → 変化 → 完了",
+      "items": [
+        {
+          "word": "initiate",
+          "meaning_ja": "開始する",
+          "image_ja": "スタートボタンが押される"
+        },
+        {
+          "word": "begin",
+          "meaning_ja": "開始する",
+          "image_ja": "一歩踏み出す"
+        },
+        {
+          "word": "continue",
+          "meaning_ja": "継続する",
+          "image_ja": "途切れない線"
+        },
+        {
+          "word": "meanwhile",
+          "meaning_ja": "一方で",
+          "image_ja": "並行する2本線"
+        },
+        {
+          "word": "gradually",
+          "meaning_ja": "だんだんと、徐々に",
+          "image_ja": "ゆっくり上がる階段"
+        },
+        {
+          "word": "fluctuate",
+          "meaning_ja": "変動する",
+          "image_ja": "折れ線グラフが上下に揺れる"
+        },
+        {
+          "word": "vary",
+          "meaning_ja": "異なる、変わる",
+          "image_ja": "色が次々に変化する"
+        },
+        {
+          "word": "delay",
+          "meaning_ja": "遅延する、遅延",
+          "image_ja": "砂時計がひっくり返る"
+        },
+        {
+          "word": "postpone",
+          "meaning_ja": "延期する",
+          "image_ja": "カレンダーの日付が後ろへ移動"
+        },
+        {
+          "word": "temporary",
+          "meaning_ja": "一時的な",
+          "image_ja": "点線で囲まれた状態"
+        },
+        {
+          "word": "constant",
+          "meaning_ja": "絶え間なく続く",
+          "image_ja": "まっすぐな線が続く"
+        },
+        {
+          "word": "consecutive",
+          "meaning_ja": "連続した",
+          "image_ja": "同じブロックが並ぶ"
+        },
+        {
+          "word": "eventually",
+          "meaning_ja": "最終的に",
+          "image_ja": "遠回りの道の先にゴール旗"
+        },
+        {
+          "word": "finally",
+          "meaning_ja": "ついに",
+          "image_ja": "最後の扉が開く"
+        },
+        {
+          "word": "completion",
+          "meaning_ja": "完了",
+          "image_ja": "進捗バーが100%になる"
+        },
+        {
+          "word": "expire",
+          "meaning_ja": "有効期限の切れた",
+          "image_ja": "期限切れスタンプ"
+        },
+        {
+          "word": "recent",
+          "meaning_ja": "最近の",
+          "image_ja": "新しい日付に丸が付く"
+        },
+        {
+          "word": "recently",
+          "meaning_ja": "最近",
+          "image_ja": "直近の出来事がハイライト"
+        },
+        {
+          "word": "moment",
+          "meaning_ja": "瞬間",
+          "image_ja": "ストップウォッチが一瞬止まる"
+        },
+        {
+          "word": "decade",
+          "meaning_ja": "10年間",
+          "image_ja": "年表が10年分伸びる"
+        }
+      ]
+    },
+
+    {
+      "theme": "交渉・合意・対立",
+      "story": "対立 → 交渉 → 妥協 → 合意",
+      "items": [
+        {
+          "word": "conflict",
+          "meaning_ja": "対立",
+          "image_ja": "向かい合う2人の間に稲妻"
+        },
+        {
+          "word": "disagree",
+          "meaning_ja": "反対する",
+          "image_ja": "×印が付く"
+        },
+        {
+          "word": "negotiation",
+          "meaning_ja": "交渉",
+          "image_ja": "テーブル越しに条件を指差す"
+        },
+        {
+          "word": "consult",
+          "meaning_ja": "相談する",
+          "image_ja": "小声で打ち合わせする"
+        },
+        {
+          "word": "proposal",
+          "meaning_ja": "提案",
+          "image_ja": "提案書が差し出される"
+        },
+        {
+          "word": "persuade",
+          "meaning_ja": "説得する",
+          "image_ja": "相手がうなずく"
+        },
+        {
+          "word": "concession",
+          "meaning_ja": "譲歩",
+          "image_ja": "一歩下がって手を差し出す"
+        },
+        {
+          "word": "compromise",
+          "meaning_ja": "妥協",
+          "image_ja": "中間地点に線が引かれる"
+        },
+        {
+          "word": "agreement",
+          "meaning_ja": "合意",
+          "image_ja": "握手が成立する"
+        },
+        {
+          "word": "contract",
+          "meaning_ja": "契約",
+          "image_ja": "署名欄にサイン"
+        },
+        {
+          "word": "approval",
+          "meaning_ja": "承認",
+          "image_ja": "承認フローに✓"
+        },
+        {
+          "word": "authorized",
+          "meaning_ja": "承認した",
+          "image_ja": "許可が下りる"
+        },
+        {
+          "word": "reject",
+          "meaning_ja": "拒否する",
+          "image_ja": "書類が突き返される"
+        },
+        {
+          "word": "comply",
+          "meaning_ja": "準拠する",
+          "image_ja": "ルールに沿って並ぶ"
+        },
+        {
+          "word": "restriction",
+          "meaning_ja": "制限",
+          "image_ja": "鍵付きの制限表示"
+        },
+        {
+          "word": "permission",
+          "meaning_ja": "許可",
+          "image_ja": "入場許可証が発行される"
+        },
+        {
+          "word": "duty",
+          "meaning_ja": "職務、義務",
+          "image_ja": "ToDoに義務が太字で載る"
+        },
+        {
+          "word": "responsibility",
+          "meaning_ja": "責任",
+          "image_ja": "肩に『Responsibility』の重り"
+        },
+        {
+          "word": "responsible",
+          "meaning_ja": "責任のある",
+          "image_ja": "担当者欄に名前が入る"
+        },
+        {
+          "word": "obligation",
+          "meaning_ja": "義務",
+          "image_ja": "約束の鎖でつながれる"
+        }
+      ]
+    },
+
+    {
+      "theme": "印象・評価・感情",
+      "story": "第一印象 → 評価 → 感情反応",
+      "items": [
+        {
+          "word": "impressive",
+          "meaning_ja": "印象的な",
+          "image_ja": "目が輝く"
+        },
+        {
+          "word": "favorable",
+          "meaning_ja": "好ましい",
+          "image_ja": "親指アップ"
+        },
+        {
+          "word": "confident",
+          "meaning_ja": "自信のある",
+          "image_ja": "胸を張る"
+        },
+        {
+          "word": "uncertain",
+          "meaning_ja": "不確かな",
+          "image_ja": "霧の中で迷う"
+        },
+        {
+          "word": "disappointed",
+          "meaning_ja": "がっかりした",
+          "image_ja": "肩を落とす"
+        },
+        {
+          "word": "satisfied",
+          "meaning_ja": "満足した",
+          "image_ja": "笑顔でうなずく"
+        },
+        {
+          "word": "grateful",
+          "meaning_ja": "感謝して",
+          "image_ja": "手を合わせる"
+        },
+        {
+          "word": "regret",
+          "meaning_ja": "後悔する",
+          "image_ja": "振り返ってため息"
+        },
+        {
+          "word": "embarrassed",
+          "meaning_ja": "恥ずかしい",
+          "image_ja": "顔を覆う"
+        },
+        {
+          "word": "enthusiasm",
+          "meaning_ja": "熱意",
+          "image_ja": "炎のアイコン"
+        },
+        {
+          "word": "reluctant",
+          "meaning_ja": "しぶしぶの",
+          "image_ja": "一歩引く"
+        },
+        { "word": "rude", "meaning_ja": "失礼な", "image_ja": "しかめ面" },
+        {
+          "word": "frank",
+          "meaning_ja": "率直な",
+          "image_ja": "はっきり言う口元"
+        },
+        {
+          "word": "sincere",
+          "meaning_ja": "誠実に",
+          "image_ja": "真正面から向き合う"
+        },
+        {
+          "word": "apologize",
+          "meaning_ja": "謝罪する",
+          "image_ja": "頭を下げる"
+        },
+        {
+          "word": "respect",
+          "meaning_ja": "尊重する",
+          "image_ja": "相手の意見に頷く"
+        },
+        {
+          "word": "comfort",
+          "meaning_ja": "快適さ",
+          "image_ja": "ソファに沈み込む"
+        },
+        {
+          "word": "comfortable",
+          "meaning_ja": "快適な",
+          "image_ja": "安心して背もたれにもたれる"
+        },
+        {
+          "word": "psychological",
+          "meaning_ja": "心理的な",
+          "image_ja": "頭の中に感情の波"
+        },
+        {
+          "word": "attitude",
+          "meaning_ja": "態度",
+          "image_ja": "姿勢がはっきり表れる"
+        }
+      ]
+    },
+
+    {
+      "theme": "リスク・安全・回避",
+      "story": "危険 → 予測 → 回避 → 安全確保",
+      "items": [
+        { "word": "risk", "meaning_ja": "危険", "image_ja": "警告マーク" },
+        { "word": "toxic", "meaning_ja": "有毒な", "image_ja": "ドクロマーク" },
+        { "word": "disaster", "meaning_ja": "災害", "image_ja": "警報が鳴る" },
+        {
+          "word": "earthquake",
+          "meaning_ja": "地震",
+          "image_ja": "揺れる建物"
+        },
+        {
+          "word": "prevent",
+          "meaning_ja": "事前に防ぐ",
+          "image_ja": "盾で止める"
+        },
+        {
+          "word": "avoid",
+          "meaning_ja": "避ける",
+          "image_ja": "進路変更する矢印"
+        },
+        { "word": "secure", "meaning_ja": "安全な", "image_ja": "鍵がかかる" },
+        {
+          "word": "ensure",
+          "meaning_ja": "確かにする",
+          "image_ja": "二重チェック"
+        },
+        {
+          "word": "comply",
+          "meaning_ja": "準拠する",
+          "image_ja": "ルール通りに整列"
+        },
+        { "word": "restriction", "meaning_ja": "制限", "image_ja": "南京錠" },
+        {
+          "word": "incident",
+          "meaning_ja": "事故",
+          "image_ja": "速報テロップ"
+        },
+        { "word": "damage", "meaning_ja": "被害", "image_ja": "割れたガラス" },
+        { "word": "loss", "meaning_ja": "損失", "image_ja": "下向き矢印" },
+        { "word": "defect", "meaning_ja": "欠陥", "image_ja": "不良品ラベル" },
+        {
+          "word": "malfunctioning",
+          "meaning_ja": "誤動作",
+          "image_ja": "エラー表示が点滅"
+        },
+        { "word": "insurance", "meaning_ja": "保険", "image_ja": "傘" },
+        { "word": "warranty", "meaning_ja": "保証", "image_ja": "保証書" },
+        {
+          "word": "liability",
+          "meaning_ja": "責任（法的責任）",
+          "image_ja": "重りを背負う"
+        },
+        {
+          "word": "recover",
+          "meaning_ja": "回復する",
+          "image_ja": "立ち上がる"
+        },
+        {
+          "word": "remedy",
+          "meaning_ja": "救済策",
+          "image_ja": "解決策の箱が渡される"
+        }
+      ]
+    }
+  ],
+
+  "meta": {
+    "total_themes": 12,
+    "item_count_target_per_theme": 20,
+    "image_rule": "日本語1行の『1枚絵』で核イメージを固定 → 文脈で意味が引き出せる設計",
+    "source_note": "source=700_list は提示された語彙リスト由来。source=added は『難しめも追加OK』に従い、学習価値が高い語を最小限追加。"
+  }
+}
